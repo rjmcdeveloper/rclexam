@@ -1,0 +1,6 @@
+framework module Pods_CONSTANTINOi95TestApp {
+  umbrella header "Pods-CONSTANTINOi95TestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
